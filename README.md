@@ -23,33 +23,40 @@
 #### This Codebase of the project has adopted the [Amazon Open Source Code of Conduct](https://github.com/opensearch-project/ml-commons/blob/main/CODE_OF_CONDUCT.md).
 <hr>
 
-<h4>Coding journey:</h4>
+<h3>Coding journey:</h3>
 <a href="https://leetcode.com/vimal116040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimal116040" height="30" width="40" /></a>
 </p>
 
-#### Skills with 2 years of experience
+### Skills with 2 years of experience
 <p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="java" width="70" height="70"/>
-<img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="java" width="70" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="java" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="java" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="java" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="70" height="70"/></p>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" 
+  alt="java" width="70" height="70"/></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="java" width="70" height="70"/>
+  <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="java" width="70" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="java" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" alt="java" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="java" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="70" height="70"/>
+</p>
   
-#### Learning below CLI using GitBash and WSL2 as well for bettter coding experiences
+### Learning below CLI using GitBash and WSL2 as well as NoSQL for bettter coding experiences
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="70" height="70"/></p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="70" height="70"/>
+  <img src="https://user-images.githubusercontent.com/91485321/271799768-074356db-0e2c-4e72-b420-218bcc077077.gif" style="display: block;-webkit-user-select: none;margin: auto;background-color:" width="70" height="70"/>
+  <img src="https://user-images.githubusercontent.com/91485321/271800013-f29349a3-ac24-4b0e-b155-6790c2848a7e.gif" style="display: block;-webkit-user-select: none;margin: auto;background-color:" width="190" height="70"/>
+</p>
 
-#### 💻 HTML, CSS, JS.
+#### 💻 [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [JS](https://www.w3schools.com/js/).
 
 ---
   
@@ -61,14 +68,26 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/vimalJD">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalJD&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/vimaljd">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaljd&show_icons=true&locale=en&layout=compact" alt="vimaljd" />
+  </a>
+</p>
+
 <!--
 <p align="center">
   <a href="https://twitter.com/vimalamratbhaip">Twitter</a>
 </p>-->
-<p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaljd&show_icons=true&locale=en&layout=compact" alt="vimaljd" /></p>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&locale=en" alt="vimaljd" /></p>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimaljd&" alt="vimaljd" /></p>
+<a href="https://github.com/vimaljd"><img  src="https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&locale=en" alt="vimaljd" height="192px" width="49.5%"/>
+<a href="https://github.com/vimaljd"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimaljd&" alt="vimaljd" height="192px" width="49.5%"/>
+</a>
 
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vimaljd&custom_title=Vimal%20Java%20Developer%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true)-->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&theme=radical) -->
