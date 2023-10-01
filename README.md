@@ -55,7 +55,7 @@
   
 </p>
 
-### Microservices with Spring Boot Full Stack
+### Microservices with Spring Boot
 
 <p>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*5t8MYXpyEXclubeT.jpg" alt="Microservices" width="80" height="70"/>
@@ -69,6 +69,8 @@
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*T81YZjqBfVDH0sOcKnk_rw.png" alt="Maven" width="150" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qI4LQe_7_0ZjT3itpBhfTw.png" alt="VSCode" width="150" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*7r2Y4vGn9V0DHlZ8rQYHng.png" alt="Zookeeper" width="170" height="70"/>
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*vO3Jxj9QubhNrNFL.jpg" alt="Postman" width="160" height="70"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MoZRQ9JxEMCFFtFSb_pSZA.jpeg" alt="Swagger" width="120" height="70"/>
   
 </p>
 
