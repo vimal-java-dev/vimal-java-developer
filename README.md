@@ -77,11 +77,11 @@
 ```
 ---
   
-- 🔭 I’m currently working on an open source contribution...
-- 🌱 I’m currently learning data structures and algorithms...
-- 👯 I’m looking to collaborate on **Java tech stack people** and Start-Up, Product Based environment for open end discussion...
-- 🤔 I’m looking for help with DSA and System Design network for dominating the market using **"THE TECHNOLOGY"**...
-- 💬 Ask me about J2SE and J2EE...
+- 🔭 I’m currently working on an open source contribution.
+- 🌱 I’m currently learning data structures and algorithms.
+- 👯 I’m looking to collaborate on Java Tech Stack people and Start-Up, Product Based environment for open end discussion.
+- 🤔 I’m looking for help with DSA and System Design network for dominating the market using "THE TECHNOLOGY".
+- 💬 Ask me about J2SE and J2EE.
 
 ---
 ```
