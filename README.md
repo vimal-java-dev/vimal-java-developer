@@ -4,8 +4,8 @@
 </h3>
 <p align="center">
 <img 
-     width="100px" 
-     height="100px" src="https://avatars.githubusercontent.com/u/91485321?s=96&v=4">
+     width="520px" 
+     height="320px" src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/Red%20Hat.jpeg">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vimaljd&label=Profile%20views&color=0e75b6&style=flat" alt="vimaljd" /> </p>
