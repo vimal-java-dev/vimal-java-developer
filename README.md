@@ -1,17 +1,16 @@
-<h1 align="center">👋 Hi there! I'm Vimal.</h1>
-<h3 align="center">
-  I am a Java Backend Developer from an India.
-</h3>
 <p align="center">
-<img 
-     width="520px" 
-     height="320px" src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/Red%20Hat.jpeg">
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vimaljd&label=Profile%20views&color=0e75b6&style=flat" alt="vimaljd" /> </p>
-<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimaljd" alt="vimaljd" /></a> </p>-->
-<p align="center"> <a href="https://twitter.com/vimalamratbhaip" target="blank"><img src="https://img.shields.io/twitter/follow/vimal@6040?logo=twitter&style=for-the-badge" alt="Vimal" /></a> </p>
-
+  <img 
+       width="671px" 
+       height="180px" 
+      src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/github-header-image.png" alt=”my banner” />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vimaljd&label=Profile%20views&color=0e75b6&style=flat" alt="vimaljd" />
+  <br>
+  <a href="https://twitter.com/vimalamratbhaip" target="blank"><img src="https://img.shields.io/twitter/follow/vimal@6040?logo=twitter&style=for-the-badge" alt="Vimal" /></a>
+  </p>
+  
+  <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimaljd" alt="vimaljd" /></a> </p>-->
+  
 ---
 
 <h4>
