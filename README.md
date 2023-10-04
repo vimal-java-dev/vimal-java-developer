@@ -88,11 +88,6 @@
 ```
 
 <p align="center">
-  <a href="https://github.com/vimalJD">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalJD&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
-<p align="center">
   <a href="https://github.com/vimaljd">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaljd&show_icons=true&locale=en&layout=compact" alt="vimaljd" />
   </a>
@@ -106,7 +101,15 @@
 <a href="https://github.com/vimaljd"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimaljd&" alt="vimaljd" height="192px" width="49.5%"/>
 </a>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vimaljd&custom_title=Vimal%20Java%20Developer%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+  <a href="https://github.com/vimalJD">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalJD&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<!--
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vimaljd&custom_title=Vimal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true )
+-->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true)-->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&theme=radical) -->
