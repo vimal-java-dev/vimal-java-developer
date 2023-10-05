@@ -17,9 +17,10 @@
   as OpenSearch to explore new opportunities.
 - 🔭 I’m currently working on an open-source contribution.
 - 🌱 I’m currently learning data structures and algorithms.
-- 👯 I’m looking to collaborate on Java Tech Stack people and a Start-Up, Product-based environment for open-end discussion.
-- 🤔 I’m looking for people who help to enhance the knowledge of DSA and System Design networks to dominate the market using
-      "THE TECHNOLOGY".
+- 👯 I’m looking to collaborate on Java Tech Stack people and a Start-Up, Product-based environment
+      for open-end discussion.
+- 🤔 I’m looking for people who help to enhance the knowledge of DSA and System Design networks to dominate
+      the market using "THE TECHNOLOGY".
 - 💬 Ask me about J2SE and J2EE.
 
 ---
@@ -83,11 +84,12 @@
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MoZRQ9JxEMCFFtFSb_pSZA.jpeg" alt="Swagger" width="120" height="70"/>
   
 </p>
-<p align="center"><b>Click below for Web development's quick revision</b></p>
+<p align="center"><strong>Click below image for Web development's quick revision</strong></p>
+
 <p align="center">
-	  <a href="https://www.w3schools.com/html/">
-    <img src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/HTML%2C%20CSS%2C%20JS.jpg" alt="Web Application" width="270" height="164"/></a>
-	  <a href="https://github.com/vimaljd">
+	<a href="https://www.w3schools.com/html/">
+    		<img src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/HTML%2C%20CSS%2C%20JS.jpg" alt="Web Application" width="300" height="164"/></a>
+	<a href="https://github.com/vimaljd">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaljd&show_icons=true&locale=en&layout=compact" alt="vimaljd"/></a>
 </p><hr>
 
@@ -95,9 +97,9 @@
 <p align="center">
   <a href="https://twitter.com/vimalamratbhaip">Twitter</a>
 </p>-->
-<a href="https://github.com/vimaljd"><img  src="https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&locale=en" alt="vimaljd" height="192px" width="49.5%"/>
-<a href="https://github.com/vimaljd"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimaljd&" alt="vimaljd" height="192px" width="49.5%"/>
-</a>
+
+<a href="https://github.com/vimaljd"><img  src="https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&locale=en" alt="vimaljd" /></a>
+<a href="https://github.com/vimaljd"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimalJD" alt="GitHub Streak" alt="vimaljd" /></a>
 
 <p align="center">
   <a href="https://github.com/vimalJD">
