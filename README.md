@@ -100,7 +100,7 @@
 
 <p align="center">
 	<a href="https://github.com/vimaljd"><img  src="https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&locale=en" alt="vimaljd" /></a>
-	<a href="https://github.com/vimaljd"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimalJD" alt="GitHub Streak" height="194" weight="49.5%"/></a>
+	<a href="https://github.com/vimaljd"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimalJD" alt="GitHub Streak" height="194" weight="50%"/></a>
 </p>
 
 <p align="center">
