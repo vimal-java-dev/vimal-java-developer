@@ -98,8 +98,10 @@
   <a href="https://twitter.com/vimalamratbhaip">Twitter</a>
 </p>-->
 
-<a href="https://github.com/vimaljd"><img  src="https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&locale=en" alt="vimaljd" /></a>
-<a href="https://github.com/vimaljd"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimalJD" alt="GitHub Streak" alt="vimaljd" /></a>
+<p align="center">
+	<a href="https://github.com/vimaljd"><img  src="https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&locale=en" alt="vimaljd" /></a>
+	<a href="https://github.com/vimaljd"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimalJD" alt="GitHub Streak" alt="vimaljd" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/vimalJD">
