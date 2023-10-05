@@ -1,13 +1,13 @@
 <p align="center">
-  <img 
-       width="671px" 
-       height="180px" 
+  <img width="671px" height="180px" 
       src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/github-header-image.png" alt=”my banner” />
   <br>
   <img src="https://komarev.com/ghpvc/?username=vimaljd&label=Profile%20views&color=0e75b6&style=flat" alt="vimaljd" />
   <br>
-  <a href="https://twitter.com/vimalamratbhaip" target="blank"><img src="https://img.shields.io/twitter/follow/vimal@6040?logo=twitter&style=for-the-badge" alt="Vimal" /></a>
-  </p>
+  <a href="https://twitter.com/vimalamratbhaip" target="blank">
+	  <img src="https://img.shields.io/twitter/follow/vimal@6040?logo=twitter&style=for-the-badge" alt="Vimal" />
+  </a>
+</p>
   
   <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimaljd" alt="vimaljd" /></a> </p>-->
 
@@ -35,8 +35,9 @@
 <hr>
 
 <h3>Coding journey:</h3>
-<a href="https://leetcode.com/vimal116040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimal116040" height="30" width="40" /></a>
-</p>
+<a href="https://leetcode.com/vimal116040/" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimal116040" height="30" width="40" />
+</a>
 
 ##### Skills with 2 years of experience
 <p align="left">
@@ -57,7 +58,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*g8Qy7c_HEMGE9nha.jpg" alt="GitHub" width="140" height="70"/>
 </p>
   
-##### Learning below CLI using GitBash and WSL2 as well for bettter coding experiences
+##### Learning below CLI using GitBash and WSL2 as well for better coding experiences
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="70" height="70"/>
@@ -84,13 +85,15 @@
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MoZRQ9JxEMCFFtFSb_pSZA.jpeg" alt="Swagger" width="120" height="70"/>
   
 </p>
-<p align="center"><strong>Click below image for Web development's quick revision</strong></p>
+<p align="center"><strong>Click on the below image for quick revision of the web development</strong></p>
 
 <p align="center">
 	<a href="https://www.w3schools.com/html/">
-    		<img src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/HTML%2C%20CSS%2C%20JS.jpg" alt="Web Application" width="300" height="164"/></a>
+    		<img src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/HTML%2C%20CSS%2C%20JS.jpg" alt="Web Application" width="300" height="164"/>
+	</a>
 	<a href="https://github.com/vimaljd">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaljd&show_icons=true&locale=en&layout=compact" alt="vimaljd"/></a>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaljd&show_icons=true&locale=en&layout=compact" alt="vimaljd"/>
+	</a>
 </p><hr>
 
 <!--
@@ -99,8 +102,12 @@
 </p>-->
 
 <p align="center">
-	<a href="https://github.com/vimaljd"><img  src="https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&locale=en" alt="vimaljd" /></a>
-	<a href="https://github.com/vimaljd"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vimalJD" alt="GitHub Streak" /></a>
+	<a href="https://github.com/vimaljd">
+		<img src="https://github-readme-stats.vercel.app/api?username=vimaljd&show_icons=true&locale=en" alt="vimaljd" />
+	</a>
+	<a href="https://github.com/vimaljd">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalJD" alt="GitHub Streak" />
+	</a>
 </p>
 
 <p align="center">
