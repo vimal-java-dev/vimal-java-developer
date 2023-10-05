@@ -11,22 +11,31 @@
   
   <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimaljd" alt="vimaljd" /></a> </p>-->
 
+```
 ---
+- I am currently working under open source as enhancement, good first issue with MLEngine via java libraries as OpenSearch to explore new opportunities.
+- 🔭 I’m currently working on an open-source contribution.
+- 🌱 I’m currently learning data structures and algorithms.
+- 👯 I’m looking to collaborate on Java Tech Stack people and a Start-Up, Product-based environment for open-end discussion.
+- 🤔 I’m looking for people who help to enhance the knowledge of DSA and System Design networks to dominate the market using "THE TECHNOLOGY".
+- 💬 Ask me about J2SE and J2EE.
 
-<h4>
-  I am currently working under open source as enhancement, good first issue with 
-  MLEngine via java libraries as OpenSearch to explore new opportunities.<br><br>
-  Machine Learning Commons for OpenSearch is a new solution that make it easy to develop new machine learning feature.
-</h4>
-
-#### This Codebase of the project has adopted the [Amazon Open Source Code of Conduct](https://github.com/opensearch-project/ml-commons/blob/main/CODE_OF_CONDUCT.md).
+---
+```
+---
+```
+- Machine Learning Commons for OpenSearch is a new solution that makes it easy to develop new machine learning features.
+```
+---
+- You can check it out by **clicking the below link.**
+- This Codebase of the project has been adopted by the [Amazon Open Source Code of Conduct](https://github.com/opensearch-project/ml-commons/blob/main/CODE_OF_CONDUCT.md).
 <hr>
 
 <h3>Coding journey:</h3>
 <a href="https://leetcode.com/vimal116040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimal116040" height="30" width="40" /></a>
 </p>
 
-### Skills with 2 years of experience
+##### Skills with 2 years of experience
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" 
   alt="java" width="70" height="70"/></a>
@@ -45,7 +54,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*g8Qy7c_HEMGE9nha.jpg" alt="GitHub" width="140" height="70"/>
 </p>
   
-### Learning below CLI using GitBash and WSL2 as well for bettter coding experiences
+##### Learning below CLI using GitBash and WSL2 as well for bettter coding experiences
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="70" height="70"/>
@@ -54,7 +63,7 @@
   
 </p>
 
-### Microservices with Spring Boot
+##### Microservices with Spring Boot
 
 <p>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*5t8MYXpyEXclubeT.jpg" alt="Microservices" width="80" height="70"/>
@@ -72,26 +81,13 @@
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MoZRQ9JxEMCFFtFSb_pSZA.jpeg" alt="Swagger" width="120" height="70"/>
   
 </p>
-
-#### 💻 [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [JS](https://www.w3schools.com/js/).
-
-```
----
-  
-- 🔭 I’m currently working on an open-source contribution.
-- 🌱 I’m currently learning data structures and algorithms.
-- 👯 I’m looking to collaborate on Java Tech Stack people and a Start-Up, Product-based environment for open-end discussion.
-- 🤔 I’m looking for people who help to enhance the knowledge of DSA and System Design networks to dominate the market using "THE TECHNOLOGY".
-- 💬 Ask me about J2SE and J2EE.
-
----
-```
-
+<p align="center"><b>Click below for Web development's quick revision</b></p>
 <p align="center">
-  <a href="https://github.com/vimaljd">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaljd&show_icons=true&locale=en&layout=compact" alt="vimaljd" />
-  </a>
-</p>
+	  <a href="https://www.w3schools.com/html/">
+    <img src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/HTML%2C%20CSS%2C%20JS.jpg" alt="Web Application" width="270" height="164"/></a>
+	  <a href="https://github.com/vimaljd">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaljd&show_icons=true&locale=en&layout=compact" alt="vimaljd"/></a>
+</p><hr>
 
 <!--
 <p align="center">
@@ -105,7 +101,7 @@
   <a href="https://github.com/vimalJD">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalJD&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
-</p>
+</p><hr>
 
 <!--
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vimaljd&custom_title=Vimal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true )
