@@ -13,11 +13,13 @@
 
 ```
 ---
-- I am currently working under open source as enhancement, good first issue with MLEngine via java libraries as OpenSearch to explore new opportunities.
+- I am currently working under open source as enhancement, good first issue with MLEngine via java libraries
+  as OpenSearch to explore new opportunities.
 - 🔭 I’m currently working on an open-source contribution.
 - 🌱 I’m currently learning data structures and algorithms.
 - 👯 I’m looking to collaborate on Java Tech Stack people and a Start-Up, Product-based environment for open-end discussion.
-- 🤔 I’m looking for people who help to enhance the knowledge of DSA and System Design networks to dominate the market using "THE TECHNOLOGY".
+- 🤔 I’m looking for people who help to enhance the knowledge of DSA and System Design networks to dominate the market using
+      "THE TECHNOLOGY".
 - 💬 Ask me about J2SE and J2EE.
 
 ---
@@ -26,7 +28,7 @@
 ```
 - Machine Learning Commons for OpenSearch is a new solution that makes it easy to develop new machine learning features.
 ```
----
+
 - You can check it out by **clicking the below link.**
 - This Codebase of the project has been adopted by the [Amazon Open Source Code of Conduct](https://github.com/opensearch-project/ml-commons/blob/main/CODE_OF_CONDUCT.md).
 <hr>
@@ -101,7 +103,7 @@
   <a href="https://github.com/vimalJD">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimalJD&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
-</p><hr>
+</p>
 
 <!--
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vimaljd&custom_title=Vimal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true )
