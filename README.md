@@ -70,14 +70,12 @@
 <p>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*5t8MYXpyEXclubeT.jpg" alt="Microservices" width="80" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*b0PBVfcSG82_f6mmBpn-Tw.png" alt="Cassandra" width="140" height="70"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*9Q5avdoWUDt6gvy67oHv5w.jpeg" alt="Docker" width="120" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:828/0*72SDVK26JHpLT2kn" alt="Kubernetes" width="120" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="70" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*hq6yHjPilSm7wSlGVMr0vw.png" width="150" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*v5EaTY6Vy1HX_FnAxbQJ2A.jpeg" width="150" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:1324/format:webp/1*s1Cho4SgMxrN7rRaIBCYng.jpeg" width="90" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*T81YZjqBfVDH0sOcKnk_rw.png" alt="Maven" width="150" height="70"/>
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qI4LQe_7_0ZjT3itpBhfTw.png" alt="VSCode" width="150" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*7r2Y4vGn9V0DHlZ8rQYHng.png" alt="Zookeeper" width="170" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*vO3Jxj9QubhNrNFL.jpg" alt="Postman" width="160" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MoZRQ9JxEMCFFtFSb_pSZA.jpeg" alt="Swagger" width="120" height="70"/>
