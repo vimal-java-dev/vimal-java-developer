@@ -35,26 +35,28 @@
 - This Codebase of the project has been adopted by the [Amazon Open Source Code of Conduct](https://github.com/opensearch-project/ml-commons/blob/main/CODE_OF_CONDUCT.md).
 <hr>
 
-<h4>Coding journey:</h4>
+##### Technical Skills with 2 years of experience
+
+![Core Java](https://img.shields.io/badge/Core-Java-success)
+![JDBC-Servlet-JSP](https://img.shields.io/badge/JDBC-Servlet%20JSP-blue)
+![Spring-Spring Boot](https://img.shields.io/badge/Spring-Spring%20Boot-red)
+![Struts2.0](https://img.shields.io/badge/Struts2.0_Framework-%20Oracle_MySQL%20DB-red)
+![Spring MVC](https://img.shields.io/badge/Spring--MVC-with%20Hibernate-yellowgreen)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-Design%20Patterns-yellowgreen)
+[![HTML](https://img.shields.io/badge/HTML-orange)](https://www.w3schools.com/html)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JS](https://img.shields.io/badge/JS-yellow)
+![STS & IntelliJ IDEA](https://img.shields.io/badge/STS-IntelliJ%20IDEA-green)
+
+<h5>Coding journey with an online platform</h5>
 <a href="https://leetcode.com/vimal116040/" target="blank">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimal116040" height="30" width="40" />
 </a></br>
 
-##### Technical Skills
-
-![Core Java](https://img.shields.io/badge/Core-Java-success)
-![JDBC-Servlet-JSP](https://img.shields.io/badge/JDBC-Servlet%20JSP-blue)
-
-##### Skills with 2 years of experience
+##### Additional Skills
 <p align="left">
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="java" width="70" height="70"/>
-  <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="java" width="70" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="java" width="70" height="70"/>
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-HmwhEEm4eJ4uorbbcnlow.png" alt="sts" width="140" height="70"/>
-  <img src="https://www.jetbrainsmerchandise.com/media/catalog/product/cache/9de2cbab405d38079f6e94f2fde72752/j/b/jbst-011_intellijidea.png" alt="intellij" width="80" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="java" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/>
@@ -62,17 +64,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="70" height="70"/>
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*g8Qy7c_HEMGE9nha.jpg" alt="GitHub" width="140" height="70"/>
 </p>
-  
-##### Learning below CLI using GitBash and WSL2 as well for better coding experiences
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="70" height="70"/>
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*cUHB3gNBT0uDGErHZiSbaw.jpeg" alt="GitBash" width="140" height="70"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*U6l8-jpVSwjbFPadVJVpjQ.png" alt="Bash" width="90" height="70"/>
-  
-</p>
 
-##### Microservices with Spring Boot
+##### Knowledge with best practices in Microservices with Spring Boot
 
 <p>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*5t8MYXpyEXclubeT.jpg" alt="Microservices" width="80" height="70"/>
@@ -90,12 +83,17 @@
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MoZRQ9JxEMCFFtFSb_pSZA.jpeg" alt="Swagger" width="120" height="70"/>
   
 </p>
-<p align="center"><strong>Click on the below image for quick revision of the web development</strong></p>
+
+##### Learning below CLI using GitBash and WSL2 as well for better coding experiences
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="70" height="70"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*cUHB3gNBT0uDGErHZiSbaw.jpeg" alt="GitBash" width="140" height="70"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*U6l8-jpVSwjbFPadVJVpjQ.png" alt="Bash" width="90" height="70"/>
+  
+</p>
 
 <p align="center">
-	<a href="https://www.w3schools.com/html/">
-    		<img src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/HTML%2C%20CSS%2C%20JS.jpg" alt="Web Application" width="300" height="164"/>
-	</a>
 	<a href="https://github.com/vimaljd">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vimaljd&show_icons=true&locale=en&layout=compact" alt="vimaljd"/>
 	</a>
