@@ -39,6 +39,7 @@
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimal116040" height="30" width="40" />
 </a>
 
+![Core Java](https://img.shields.io/badge/Core-Java-success)
 ##### Skills with 2 years of experience
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" 
