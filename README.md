@@ -1,3 +1,4 @@
+### Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 <p align="center">
   <img width="671px" height="180px" 
       src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/github-header-image.png" alt=”my banner” />
@@ -34,16 +35,19 @@
 - This Codebase of the project has been adopted by the [Amazon Open Source Code of Conduct](https://github.com/opensearch-project/ml-commons/blob/main/CODE_OF_CONDUCT.md).
 <hr>
 
-<h3>Coding journey:</h3>
+<h4>Coding journey:</h4>
 <a href="https://leetcode.com/vimal116040/" target="blank">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimal116040" height="30" width="40" />
-</a>
+</a></br>
+
+##### Technical Skills
 
 ![Core Java](https://img.shields.io/badge/Core-Java-success)
+![JDBC-Servlet-JSP](https://img.shields.io/badge/JDBC-Servlet%20JSP-blue)
+
 ##### Skills with 2 years of experience
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" 
-  alt="java" width="70" height="70"/></a>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="java" width="70" height="70"/>
   <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="java" width="70" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="java" width="70" height="70"/>
