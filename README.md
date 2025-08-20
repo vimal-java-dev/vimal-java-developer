@@ -14,12 +14,9 @@
 ```
 ---
 - I am a Java Developer by profession as a Freelancer.
-- I have been learning, case-studying and open source as an enhancement, a good first issue with MLEngine via Java libraries
+- I have been learning and exploring myself towards case studies of different types of products in the market, and open source as an enhancement, right from a good first issue with MLEngine via Java libraries
   OpenSearch to explore new opportunities.
-- 👯 I’m looking to collaborate on Java Tech Stack people and a Start-Up, Product-based environment
-      for open-ended discussion.
-- 🤔 I’ve been looking for the people who help to enhance the knowledge of DSA and System Design, or networks of it, to dominate
-      the market using "THE TECHNOLOGY".
+- 👯 I’m currently looking for people to collaborate on a Java Tech Stack, a Start-Up, and a Product-based environment for open-ended discussion.
 ---
 ```
 ---
