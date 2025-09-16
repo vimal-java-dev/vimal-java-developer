@@ -1,9 +1,9 @@
 ### Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 <p align="center">
   <img width="671px" height="180px" 
-      src="https://github.com/vimalJD/vimalJD/blob/main/profile-pic/github-header-image.png" alt=”my banner” />
+      src="https://github.com/vimal-java-dev/vimal-java-dev/blob/main/profile-pic/github-header-image.png" alt=”my banner” />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=vimaljd&label=Profile%20views&color=0e75b6&style=flat" alt="vimaljd" />
+  <img src="https://komarev.com/ghpvc/?username=vimal-java-dev&label=Profile%20views&color=0e75b6&style=flat" alt="vimal-java-dev" />
   <br>
   <a href="https://twitter.com/vimalamratbhaip" target="blank">
 	  <img src="https://img.shields.io/twitter/follow/vimal@6040?logo=twitter&style=for-the-badge" alt="Vimal" />
